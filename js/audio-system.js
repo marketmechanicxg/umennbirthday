@@ -14,7 +14,7 @@
 const playlist = [
   {
     id:        'song1',
-    title:     'My Live All Mine',
+    title:     'My Life All Mine',
     artist:    'Mitski',
     file:      'music/song1.mp3',
     cover:     'assets/music-cover/song1.jpeg',
